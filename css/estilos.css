@@ -627,7 +627,7 @@ video{
 
 .category-moca {
 	background-image: linear-gradient(#00000080, #00000080),
-		url('img/moca-category.jpg');
+		url('../img/silabas.jpg');
 	background-size: cover;
 	background-position: bottom;
 	background-repeat: no-repeat;
@@ -635,7 +635,7 @@ video{
 
 .category-capuchino {
 	background-image: linear-gradient(#00000080, #00000080),
-		url('img/capuchino-category.jpg');
+		url('../img/operacion.jpg');
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -643,7 +643,7 @@ video{
 
 .category-expreso {
 	background-image: linear-gradient(#00000080, #00000080),
-		url('img/expreso-category.jpg');
+		url('../img/ordena.webp');
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;

@@ -8,12 +8,13 @@ body {
     background-color: rgb(27, 41, 54);
 }
 
-.container {
-    max-width: 500px;
+.calculia__wrapper__container {
+    width: 700px;
     background: linear-gradient(#d69d34, #d5f3f7);
     margin: auto;
     padding: 20px;
     text-align: center;
+    border-radius: 5px;
 }
 
 .container-operadores {
